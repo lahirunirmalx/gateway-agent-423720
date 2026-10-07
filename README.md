@@ -1,2 +1,3 @@
 # gateway-agent-423720
-Personal sandbox
+
+Experimental module — not yet stable.
